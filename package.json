@@ -1,11 +1,11 @@
 {
-  "name": "so-many-possibilites",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "app build to fun with my friends",
-  "main": "so-many-possibilites.js",
+  "description": "boilerplate to start new apps more fastly",
+  "main": "index.js",
   "scripts": {
-    "start": "node so-many-possibilites.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": ""
   },
   "author": "",
   "license": "ISC",
